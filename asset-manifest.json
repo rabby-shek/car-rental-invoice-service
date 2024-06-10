@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/car-rental-invoice-service%20/static/css/main.6e40061b.css",
+    "main.js": "/car-rental-invoice-service%20/static/js/main.360f1a0c.js",
+    "static/media/logo.jpeg": "/car-rental-invoice-service%20/static/media/logo.9b78dfb67b856c626617.jpeg",
+    "index.html": "/car-rental-invoice-service%20/index.html",
+    "main.6e40061b.css.map": "/car-rental-invoice-service%20/static/css/main.6e40061b.css.map",
+    "main.360f1a0c.js.map": "/car-rental-invoice-service%20/static/js/main.360f1a0c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e40061b.css",
+    "static/js/main.360f1a0c.js"
+  ]
+}
